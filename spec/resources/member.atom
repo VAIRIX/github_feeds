@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/vairix-dfernandez</id>
+  <link type="text/html" rel="alternate" href="https://github.com/vairix-dfernandez"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/vairix-dfernandez.atom"/>
+  <title>vairix-dfernandez&#39;s Activity</title>
+  <updated>2014-03-11T16:50:18Z</updated>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/2011244999</id>
+    <published>2014-03-11T16:50:18Z</published>
+    <updated>2014-03-11T16:50:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/issues/14283#issuecomment-37319274"/>
+    <title type="html">vairix-dfernandez commented on issue rails/rails#14283</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-11T16:50:18Z&quot; title=&quot;2014-03-11 16:50:18&quot;&gt;March 11, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/rails/rails/issues/14283#issuecomment-37319274&quot; title=&quot;loading of one association on an unsaved record corrupts another association&quot;&gt;rails/rails#14283&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;If you inspect &lt;code&gt;pg.actions_possible.loaded?&lt;/code&gt; before the execution of &lt;code&gt;pg.actions_possible.first&lt;/code&gt; you&#39;ll see that it returns false. But if you run it af…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/2009946099</id>
+    <published>2014-03-10T20:27:08Z</published>
+    <updated>2014-03-10T20:27:08Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/issues/14283#issuecomment-37229891"/>
+    <title type="html">vairix-dfernandez commented on issue rails/rails#14283</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-10T20:27:08Z&quot; title=&quot;2014-03-10 20:27:08&quot;&gt;March 10, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/rails/rails/issues/14283#issuecomment-37229891&quot; title=&quot;loading of one association on an unsaved record corrupts another association&quot;&gt;rails/rails#14283&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;As far as I understand you cannot make a has_many :through association with a has_and_belongs_to_many on the other side of the relation.
+If you lo…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/2005926906</id>
+    <published>2014-03-06T20:50:40Z</published>
+    <updated>2014-03-06T20:50:40Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/rails/rails/issues/14303#issuecomment-36935218"/>
+    <title type="html">vairix-dfernandez commented on issue rails/rails#14303</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-06T20:50:40Z&quot; title=&quot;2014-03-06 20:50:40&quot;&gt;March 06, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/rails/rails/issues/14303#issuecomment-36935218&quot; title=&quot;ActiveRecord::StatementInvalid sometimes when passing a Model as a where parameter&quot;&gt;rails/rails#14303&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;the rspec version and code would be helpful to reproduce the bug&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/2005826417</id>
+    <published>2014-03-06T19:42:18Z</published>
+    <updated>2014-03-06T19:42:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mislav/will_paginate/issues/360#issuecomment-36927996"/>
+    <title type="html">vairix-dfernandez commented on issue mislav/will_paginate#360</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-06T19:42:18Z&quot; title=&quot;2014-03-06 19:42:18&quot;&gt;March 06, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/mislav/will_paginate/issues/360#issuecomment-36927996&quot; title=&quot;undefined method `to_sql&amp;#39; for :name:Symbol&quot;&gt;mislav/will_paginate#360&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;It was an activerecord bug but was fixed. If you use the last version of rails your application should work. &lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/2005553946</id>
+    <published>2014-03-06T16:40:57Z</published>
+    <updated>2014-03-06T16:40:57Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mislav/will_paginate/issues/360#issuecomment-36907444"/>
+    <title type="html">vairix-dfernandez commented on issue mislav/will_paginate#360</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-06T16:40:57Z&quot; title=&quot;2014-03-06 16:40:57&quot;&gt;March 06, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/mislav/will_paginate/issues/360#issuecomment-36907444&quot; title=&quot;undefined method `to_sql&amp;#39; for :name:Symbol&quot;&gt;mislav/will_paginate#360&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I was researching in activerecord and I found that the problem was how to set the order. If you use venues.reorder(&#39;name&#39;) instead of venues.reorde…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PullRequestEvent/2004373501</id>
+    <published>2014-03-05T21:26:39Z</published>
+    <updated>2014-03-05T21:26:39Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/malclocke/fulcrum/pull/221"/>
+    <title type="html">vairix-dfernandez opened pull request malclocke/fulcrum#221</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- pull_request --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-pull-request&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-05T21:26:39Z&quot; title=&quot;2014-03-05 21:26:39&quot;&gt;March 05, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;opened&lt;/span&gt; pull request &lt;a href=&quot;https://github.com/malclocke/fulcrum/pull/221&quot;&gt;malclocke/fulcrum#221&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;#190 label textField loses focus after adding a label was fixed&lt;/blockquote&gt;
+      &lt;div class=&quot;pull-info&quot;&gt;
+        &lt;span class=&quot;octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+        &lt;em&gt;1&lt;/em&gt; commit with
+        &lt;em&gt;1&lt;/em&gt; addition and
+        &lt;em&gt;1&lt;/em&gt; deletion
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/2004341456</id>
+    <published>2014-03-05T21:05:00Z</published>
+    <updated>2014-03-05T21:05:00Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/VAIRIX/fulcrum/compare/f71db170b0...415c4744a0"/>
+    <title type="html">vairix-dfernandez pushed to master at VAIRIX/fulcrum</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;span class=&quot;mega-octicon octicon-git-commit&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-05T21:05:00Z&quot; title=&quot;2014-03-05 21:05:00&quot;&gt;March 05, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;pushed&lt;/span&gt; to &lt;a href=&quot;/VAIRIX/fulcrum/tree/master&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;https://github.com/VAIRIX/fulcrum&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;VAIRIX/fulcrum&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;vairix-dfernandez&quot;&gt;
+            &lt;img alt=&quot;vairix-dfernandez&quot; class=&quot; js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;16&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/VAIRIX/fulcrum/commit/415c4744a01d965fb0180276a7c89371e1bf65c4&quot;&gt;415c474&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              #190 label textField loses focus after adding a label was fixed
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/2002433827</id>
+    <published>2014-03-04T17:47:36Z</published>
+    <updated>2014-03-04T17:47:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mislav/will_paginate/issues/360#issuecomment-36652503"/>
+    <title type="html">vairix-dfernandez commented on issue mislav/will_paginate#360</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-03-04T17:47:36Z&quot; title=&quot;2014-03-04 17:47:36&quot;&gt;March 04, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/mislav/will_paginate/issues/360#issuecomment-36652503&quot; title=&quot;undefined method `to_sql&amp;#39; for :name:Symbol&quot;&gt;mislav/will_paginate#360&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Yes, I&#39;m testing with the same version of postgres, activerecord and ruby. Could you try this with a clean project?&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/1998459113</id>
+    <published>2014-02-28T18:46:04Z</published>
+    <updated>2014-02-28T18:46:04Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mislav/will_paginate/issues/360#issuecomment-36381442"/>
+    <title type="html">vairix-dfernandez commented on issue mislav/will_paginate#360</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;span class=&quot;mega-octicon octicon-comment-discussion&quot;&gt;&lt;/span&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2014-02-28T18:46:04Z&quot; title=&quot;2014-02-28 18:46:04&quot;&gt;February 28, 2014&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;commented&lt;/span&gt; on issue &lt;a href=&quot;https://github.com/mislav/will_paginate/issues/360#issuecomment-36381442&quot; title=&quot;undefined method `to_sql&amp;#39; for :name:Symbol&quot;&gt;mislav/will_paginate#360&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;&lt;img alt=&quot;vairix-dfernandez&quot; class=&quot;gravatar js-avatar&quot; data-user=&quot;2892248&quot; height=&quot;30&quot; src=&quot;https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I couldn&#39;t reproduce it with same activerecord version.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:MemberEvent/1632623606</id>
+    <published>2012-11-27T14:18:59Z</published>
+    <updated>2012-11-27T14:18:59Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/vairix-dfernandez/try_git"/>
+    <title type="html">vairix-dfernandez added Try-Git to vairix-dfernandez/try_git</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- member --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-person-addeded&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;added&lt;/span&gt; &lt;a href=&quot;/Try-Git&quot;&gt;Try-Git&lt;/a&gt; to &lt;a href=&quot;https://github.com/vairix-dfernandez/try_git&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;vairix-dfernandez/try_git&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2012-11-27T14:18:59Z&quot; title=&quot;2012-11-27 14:18:59&quot;&gt;November 27, 2012&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/1632623604</id>
+    <published>2012-11-27T14:18:59Z</published>
+    <updated>2012-11-27T14:18:59Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/vairix-dfernandez/try_git"/>
+    <title type="html">vairix-dfernandez created repository try_git</title>
+    <author>
+      <name>vairix-dfernandez</name>
+      <uri>https://github.com/vairix-dfernandez</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/a7e22a45f856240446982a93de30961e?d=https%3A%2F%2Fidenticons.github.com%2Fb818ff0569542a8566fe0dd14e3c7043.png&amp;r=x&amp;s=30"/>
+    <content type="html">&lt;!-- create --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-repo-create&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/vairix-dfernandez&quot;&gt;vairix-dfernandez&lt;/a&gt; &lt;span&gt;created&lt;/span&gt; repository &lt;a href=&quot;/vairix-dfernandez/try_git&quot; class=&quot;css-truncate css-truncate-target&quot; title=&quot;try_git&quot;&gt;try_git&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time class=&quot;js-relative-date&quot; data-title-format=&quot;YYYY-MM-DD HH:mm:ss&quot; datetime=&quot;2012-11-27T14:18:59Z&quot; title=&quot;2012-11-27 14:18:59&quot;&gt;November 27, 2012&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,6 +1,6 @@
 require 'rest_client'
 
-class GitFeedsHandler
+module GitFeedsHandler
 
   def self.retrieve_org_members_links
     result = RestClient.get('https://api.github.com/orgs/vairix/members')

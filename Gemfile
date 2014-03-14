@@ -27,12 +27,16 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+#Used to fetch and process feeds
 gem 'feedzirra'
 
-gem 'delayed_job_active_record'
+#Used to Schedule
+gem 'whenever', require: false
 
+#Used to handle environment variables
 gem 'figaro'
 
+#Used to access REST servers
 gem 'rest-client'
 
 group :doc do

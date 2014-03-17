@@ -14,3 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+$(document).ready(function(){
+	$('#github_feeds.news.public_news').find('a').attr('target', '_blank');
+});

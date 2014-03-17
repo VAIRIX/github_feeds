@@ -13,25 +13,21 @@ describe GithubFeedEntry do
   end
 
   describe 'methods' do
-   let(:feeds_entries) do
-      (1..GithubFeedEntry::LAST_ADDED).each do
+    let(:feeds_entries) do
+      (1..GithubFeedEntry::LAST_ADDED + 2).each do
         GithubFeedEntry.make!
       end
     end
 
-    it 'returns the MAX permitted size' do
-      feeds_entries
-      expect(GithubFeedEntry.last_added.length).to eq(GithubFeedEntry::LAST_ADDED)
-    end
-
     it 'return the MAX permitted size even there are more' do
       feeds_entries
-      GithubFeedEntry.make!
       expect(GithubFeedEntry.last_added.length).to eq(GithubFeedEntry::LAST_ADDED)
     end
 
-    it 'returns zero entries' do
-      expect(GithubFeedEntry.last_added.length).to eq(0)
+    it 'returns results in the correct order' do
+      feeds_entries
+      entry = GithubFeedEntry.make!(published: Time.now + 2.days)
+      expect(GithubFeedEntry.last_added.first.id).to eq(entry.id)
     end
   end
 end

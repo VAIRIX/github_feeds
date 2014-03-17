@@ -64,6 +64,7 @@ GEM
     libv8 (3.16.14.3)
     loofah (1.2.1)
       nokogiri (>= 1.4.4)
+    machinist (2.0)
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
@@ -158,6 +159,7 @@ DEPENDENCIES
   figaro
   jbuilder (~> 1.2)
   jquery-rails
+  machinist (>= 2.0.0.beta2)
   rails (= 4.0.1)
   rest-client
   rspec-rails

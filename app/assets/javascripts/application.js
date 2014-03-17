@@ -13,7 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require_self
 $(document).ready(function(){
 	$('#github_feeds.news.public_news').find('a').attr('target', '_blank');
 });

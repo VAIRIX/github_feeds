@@ -3,7 +3,7 @@ require 'feeds/git_feeds_handler'
 
 describe GitFeedsHandler do
 
-  describe 'retrieve_org_members_links' do
+  describe '.retrieve_org_members_links' do
 
     before :each do
       RestClient.stub(:get).and_return(File.read('spec/resources/members.json'))
@@ -19,14 +19,12 @@ describe GitFeedsHandler do
 
   end
 
-  describe 'fetch_and_create_feeds_enrties' do
+  describe '.fetch_and_create_feeds_enrties' do
 
-    before :each do
-      @links =["File://#{Rails.root}/spec/resources/member.atom"]
-    end
+    let(:links) { ["File://#{Rails.root}/spec/resources/member.atom"] }
 
     it 'has to fetch entries from feeds' do
-      expect{ GitFeedsHandler.fetch_and_create_feeds_enrties(@links) }.to change{GithubFeedEntry.count}.by(11)
+      expect{ GitFeedsHandler.fetch_and_create_feeds_enrties(links) }.to change{GithubFeedEntry.count}.by(11)
     end
 
   end

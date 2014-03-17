@@ -2,8 +2,11 @@ require 'rest_client'
 
 module GitFeedsHandler
 
+  MEMBERS_API_URL = 'https://api.github.com/orgs/vairix/members'
+  GITHUB_URL      = 'https://github.com'
+
   def self.retrieve_org_members_links
-    result = RestClient.get('https://api.github.com/orgs/vairix/members')
+    result = RestClient.get(MEMBERS_API_URL)
     parsed_result = YAML.load(result.gsub(/\=>/, ': '))
     parsed_result.map{ |member| "#{member['html_url']}.atom" }
   end
@@ -22,6 +25,10 @@ module GitFeedsHandler
 
   private
 
+  def self.process_content(content)
+    content.gsub(/href="\//, "href=\"#{GITHUB_URL}/")
+  end
+
   def self.add_entries(entries)
     entries.each do |entry|
       unless GithubFeedEntry.find_by(entry_id: entry.entry_id)
@@ -32,7 +39,7 @@ module GitFeedsHandler
           url:       entry.url,
           title:     entry.title,
           author:    entry.author,
-          content:   entry.content
+          content:   GitFeedsHandler.process_content(entry.content)
         )
       end
     end
